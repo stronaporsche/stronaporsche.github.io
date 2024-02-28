@@ -1,0 +1,64 @@
+body {
+	font-family: Bahnschrift SemiBold;
+	font-size: 1em;
+	color: black;
+	a {
+	text-decoration: none;	
+	color: #c70808;
+}
+p {
+	font-size: 2em;
+}
+.href {
+	text-align: center;
+	word-spacing: 10px;
+	letter-spacing: 3px;
+	a {
+		font-family: Bahnschrift SemiBold;
+		color: black;
+		font-size: 1.5em;
+		text-decoration: none;
+
+	}
+	.now {
+	color: #c70808;
+	}
+}
+.model {
+	text-align: left;
+	margin-left: 10%;
+	a {
+		font-family: Bahnschrift SemiBold;
+		color: black;
+		font-size: 2.5em;
+		text-decoration: none;
+
+	}
+}
+.model-back {
+	color: black;
+	font-size: 2em;
+	margin-left: 10%;
+	a {
+		text-decoration: none;
+	}
+}
+a:hover {
+	background-color: #a6a4a4;
+}
+.design {
+	color: white;
+	font-size: 1.5em;
+	background-color: #1c1c1c;
+	h2 {
+		font-family: Bahnschrift SemiBold;
+		font-variant: small-caps;
+		color: #c70808;
+		text-align: center;
+		font-size: 3em;
+	}
+	
+}
+.onas {
+	font-size: 1.5em;
+}
